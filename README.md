@@ -6,22 +6,24 @@ I have extensively worked with:
 
 🟦 TypeScript | ⚛️ React | 🧪 Jest | 🎨 Tailwind | 🌿 Node.js
 
----
-
-I love sharing my learnings and experiences on [hashnode 📝](https://subratopatnaik.hashnode.dev/).
-
-I used to be quite active on [Stackoverflow 💬](https://stackoverflow.com/users/13847690/subrato-pattanaik), helping and learning, though I drop by less often these days.
+Love to work on new frameworks and libraries.
 
 ---
 
-### 🍿 Free time
+I love sharing my learnings and experiences on [hashnode](https://subratopatnaik.hashnode.dev/).
 
-🎬 Movie & Series | 🗣️ Loves discussing plot twists | 😤 Frustrated when endings disappoint!
+I used to be quite active on [Stackoverflow](https://stackoverflow.com/users/13847690/subrato-pattanaik), helping and learning, though I drop by less often these days.
+
+---
+
+In my free time, I love to watch movies and series but easily get frustrated when endings disappoint!
 
 I explore new genres and dive into deep discussion about twist & turns, cinematography and _"what could've been better!"_
 
 ---
 
-### Github stats
-
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=subrato-pattanaik&show_icons=true&locale=en" alt="subrato-pattanaik" /></p>
+
+---
+
+✨ _Let's connect and build something amazing!_ 🚀
