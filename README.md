@@ -2,9 +2,9 @@
 
 Software Engineer @ Bentley | 💻 4+ years of experience
 
-I craft scalable and performant web applications using:
+I have extensively worked with:
 
-🟦 TypeScript v5 | ⚛️ React v17 | 🧪 Jest 26 | 🎨 Tailwind v3 | 🌿 Node.js v18
+🟦 TypeScript | ⚛️ React | 🧪 Jest | 🎨 Tailwind | 🌿 Node.js
 
 ---
 
@@ -19,6 +19,8 @@ I used to be quite active on [Stackoverflow 💬](https://stackoverflow.com/user
 🎬 Movie & Series | 🗣️ Loves discussing plot twists | 😤 Frustrated when endings disappoint!
 
 I explore new genres and dive into deep discussion about twist & turns, cinematography and _"what could've been better!"_
+
+---
 
 ### Github stats
 
