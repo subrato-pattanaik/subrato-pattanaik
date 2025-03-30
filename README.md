@@ -6,7 +6,9 @@ I have extensively worked with:
 
 🟦 TypeScript | ⚛️ React | 🧪 Jest | 🎨 Tailwind | 🌿 Node.js
 
-Love to work on new frameworks and libraries.
+A lot of interest in working with latest cutting-edge frontend frameworks and libraries.
+
+Exploring AI-powered applications and how LLMs can be leveraged in frontend development.
 
 ---
 
@@ -16,7 +18,7 @@ I used to be quite active on [Stackoverflow](https://stackoverflow.com/users/138
 
 ---
 
-In my free time, I love to watch movies and series but easily get frustrated when endings disappoint!
+In my free time, I love to watch movies and series but quickly get frustrated when endings disappoint!
 
 I explore new genres and dive into deep discussion about twist & turns, cinematography and _"what could've been better!"_
 
@@ -26,4 +28,4 @@ I explore new genres and dive into deep discussion about twist & turns, cinemato
 
 ---
 
-✨ _Let's connect and build something amazing!_ 🚀
+_Let's connect and build something amazing together!_ 🚀
