@@ -1,14 +1,14 @@
 # 👋 Hey there, I'm Subro!
 
-Software Engineer @ Bentley | 💻 4+ years of experience
+Software Engineer @ Bentley | 💻 5+ years of experience
 
 I have extensively worked with:
 
-🟦 TypeScript | ⚛️ React | 🧪 Jest | 🎨 Tailwind | 🌿 Node.js
+ 🌿 Node.js | 🟦 TypeScript | ⚛️ React | 🧪 Jest | 🎨 Tailwind 
 
 A lot of interest in working with latest cutting-edge frontend frameworks and libraries.
 
-Exploring AI-powered applications and how LLMs can be leveraged in frontend development.
+Exploring the world of AI Engineering by building AI-powered applications and how LLMs can be leveraged in frontend development.
 
 ---
 
