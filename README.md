@@ -4,7 +4,7 @@ Software Engineer @ Bentley | 💻 5+ years of experience
 
 I have extensively worked with:
 
- 🌿 Node.js | 🟦 TypeScript | ⚛️ React | 🧪 Jest | 🎨 Tailwind 
+ 🌿 Node.js | 🟦 TypeScript | ⚛️ React | 🧪 Jest/Vitest | 🎨 Tailwind 
 
 A lot of interest in working with latest cutting-edge frontend frameworks and libraries.
 
@@ -21,10 +21,6 @@ I used to be quite active on [Stackoverflow](https://stackoverflow.com/users/138
 In my free time, I love to watch movies and series but quickly get frustrated when endings disappoint!
 
 I explore new genres and dive into deep discussion about twist & turns, cinematography and _"what could've been better!"_
-
----
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=subrato-pattanaik&show_icons=true&locale=en" alt="subrato-pattanaik" /></p>
 
 ---
 
