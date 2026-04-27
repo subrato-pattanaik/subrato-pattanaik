@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Subro!
 
-Software Engineer @ Bentley | 💻 5+ years of experience
+Software Engineer @ Bentley | 💻 6+ years of experience
 
 I have extensively worked with:
 
